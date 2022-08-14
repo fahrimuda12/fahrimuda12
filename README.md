@@ -15,7 +15,9 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=fahrimuda12&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahrimuda12&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -50,11 +52,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fahrimuda12&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrimuda12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fahrimuda12&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrimuda12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fahrimuda12/fahrimuda12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
