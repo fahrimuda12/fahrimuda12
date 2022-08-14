@@ -20,11 +20,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- 🔭 I’m working as a Backend Developer and contributing to backend for building web applications.
+- 🔭 I’m working as a Backend Developer and contributing to backend for building web applications
 - 🌱 Exploring Backend Developer Using Node JS and Laravel
-- 👯 In my free time, I learn in Dicoding and Freecode Camp.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- 👯 In my free time, I learn in Dicoding and Freecode Camp
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=profesorrob01@gmail.com)
 - ⚡ Fun fact: I'm a people
 
 ---
