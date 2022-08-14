@@ -24,7 +24,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 🔭 I’m working as a Backend Developer and contributing to backend for building web applications.
 - 🌱 Exploring Backend Developer Using Node JS and Laravel
 - 👯 In my free time, I learn in Dicoding and Freecode Camp.
-- 📫 How to reach me: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - ⚡ Fun fact: I'm a people
 
 ---
