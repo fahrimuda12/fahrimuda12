@@ -18,7 +18,7 @@
   <a href="https://instagram.com/fahrimuda">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.instagram.com/fahrimuda/?hl=id">
+  <a href="https://facebook.com/mudazulqhi0102">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
