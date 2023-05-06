@@ -25,10 +25,25 @@
 
 ---
 ## 💫 About Me:
-### My Name Is Zulqhi Fahri Muda
+My Name Is Zulqhi Fahri Muda <br>
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-Experience story<br>🧑‍💼 My last activity was participating in the MSIB internship at the Merdeka Campus as a full-stack developer at Beecons<br>🔭 I’m currently working on my final project to make Self-checking Corner Website for Early Symptoms of Disease Using Certainty Factors which is Integrated with EEPIS Campus Clinics<br><br>Deepen knowledge<br>🧑‍💻 I enjoy studying the field of Web Developer and Mobile Developer, especially as a Backend<br>🌱 I’m currently learning Microservice, Data Scrapping, and KNS<br>🏫 I get a lot of experience in lectures and experiences<br><br>Reach more connection<br>👯 I'm happy for someone to follow me on Github, we can be friends and collab <br>🤝 I’m looking for a connection on my LinkedIn <br><br>Contact me<br>💌 Contact me for more information at [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=profesorrob01@gmail.com)<br><br>Funny said<br>⚡ Fun fact I like someone
+### Experience story :
+🧑‍💼 My last activity was participating in the MSIB internship at the Merdeka Campus as a full-stack developer at Beecons<br>
+🔭 I’m currently working on my final project to make Self-checking Corner Website for Early Symptoms of Disease Using Certainty Factors which is Integrated with EEPIS Campus Clinics<br>
+📂 You can see my Resume and Portfolio [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1wSJGbdicndGGRrsWzOlY_CRSC_ual4RU?usp=sharing) 
+
+### Deepen knowledge :
+🧑‍💻 I enjoy studying the field of Web Developer and Mobile Developer, especially as a Backend<br>
+🌱 I’m currently learning Microservice, Data Scrapping, and KNS<br>
+🏫 I get a lot of experience in lectures and experiences<br>
+### Reach more connection :
+👯 I'm happy for someone to follow me on Github, we can be friends and collab <br>
+🤝 I’m looking for a connection on my LinkedIn <br>
+### Contact me :
+✉️ Contact me for more information at [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=profesorrob01@gmail.com)<br>
+### Funny said :
+⚡ Fun fact I like someone
 
 <!-- ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mudazulqhi0102) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahrimuda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zulqhifahri-muda-324b971a3/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCj-TuqkYEoNVi1y3yWcqRPw) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@fahri-muda)  -->
