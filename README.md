@@ -40,10 +40,11 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### Reach more connection :
 👯 I'm happy for someone to follow me on Github, we can be friends and collab <br>
 🤝 I’m looking for a connection on my LinkedIn <br>
-### Contact me :
-✉️ Contact me for more information at [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=profesorrob01@gmail.com)<br>
 ### Funny said :
 ⚡ Fun fact I like someone
+### Contact me :
+✉️ Contact me for more information at [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=profesorrob01@gmail.com)<br>
+
 
 <!-- ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mudazulqhi0102) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahrimuda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zulqhifahri-muda-324b971a3/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCj-TuqkYEoNVi1y3yWcqRPw) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@fahri-muda)  -->
